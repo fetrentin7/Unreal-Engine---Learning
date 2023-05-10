@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ferna/Downloads/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/MyProject4/MyProject4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ferna/Downloads/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/MyProject4/MyProject4/Content/NewMap.umap",
+				"C:/Users/ferna/Downloads/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/MyProject4/MyProject4/Content/Collector.uasset",
+				"C:/Users/ferna/Downloads/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/MyProject4/MyProject4/Content/NewBlueprint.uasset",
+				"C:/Users/ferna/Downloads/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/Unreal_Engine_Ebac_Atividade02_FernandoTrentin/MyProject4/MyProject4/Content/NewBlueprint1.uasset"
+			]
+		}
+	]
+}
